@@ -1,0 +1,14 @@
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\bin\Debug\net8.0\Exercise 6.exe
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\bin\Debug\net8.0\Exercise 6.deps.json
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\bin\Debug\net8.0\Exercise 6.runtimeconfig.json
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\bin\Debug\net8.0\Exercise 6.dll
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\bin\Debug\net8.0\Exercise 6.pdb
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.AssemblyInfoInputs.cache
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.AssemblyInfo.cs
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.dll
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\refint\Exercise 6.dll
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.pdb
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\Exercise 6.genruntimeconfig.cache
+C:\Users\srija\OneDrive\Srijan\Code\C#\Codio\Branching\Exercise 6\obj\Debug\net8.0\ref\Exercise 6.dll
